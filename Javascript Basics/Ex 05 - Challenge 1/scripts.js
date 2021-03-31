@@ -4,7 +4,7 @@
 
 /*
 Kasun and Chamal are trying to compare their BMI (Body Mass Index), which is calculated using the formula: 
-BMI = mass / height ^ 2
+BMI = mass / height ^ 2 (mass in kg and height in m )
 (Mass is kg and Height in meter)
 
 1. Store Kasun's and Chamal's mass and height in variables

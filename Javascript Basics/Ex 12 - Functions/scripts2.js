@@ -3,7 +3,7 @@
 // -----------------------------------------
 
 // --Function declaration--
-// function profession(job, firstName){}
+// function functionName(parameter01, parameter02){}
 
 // --Function expression--
 var profession = function(job, firstName){

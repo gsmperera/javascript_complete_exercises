@@ -4,6 +4,7 @@
 
 // --Function declaration--
 // function functionName(parameter01, parameter02){}
+// function profession(job, firstName){}
 
 // --Function expression--
 var profession = function(job, firstName){
